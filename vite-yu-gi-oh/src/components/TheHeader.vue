@@ -14,6 +14,9 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+.container {
+    background-color: white;
+}
 img {
     width: 100px;
 }
